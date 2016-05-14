@@ -1,3 +1,11 @@
+0.0.4 / 2016-05-14
+==================
+- Set ES6 source type to script
+
+0.0.3 / 2016-05-14
+==================
+- Fixed dependencies
+
 0.0.1 / 2016-05-14
 ==================
 - initial import with modifications
