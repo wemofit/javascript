@@ -1,3 +1,7 @@
+0.0.6 / 2016-05-21
+==================
+- Removed newline-per-chained-call
+
 0.0.5 / 2016-05-21
 ==================
 - Removed react/jsx-space-before-closing
