@@ -1,3 +1,7 @@
+0.0.5 / 2016-05-21
+==================
+- Removed react/jsx-space-before-closing
+
 0.0.4 / 2016-05-14
 ==================
 - Set ES6 source type to script
